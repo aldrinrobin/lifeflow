@@ -19,4 +19,4 @@ A hospital & patient medical record system.
 ## Structure
 - /web → React website
 - /mobile-app → Flutter app
->>>>>>> 43c03d49dda2a0107a7ba3bfa3091d6daaf0f5ec
+
