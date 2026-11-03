@@ -14,7 +14,7 @@ A hospital & patient medical record system.
 - React
 - Firebase Firestore
 - Flutter
-- Firebase Authentication
+- Firebase Authe
 
 ## Structure
 - /web → React website
